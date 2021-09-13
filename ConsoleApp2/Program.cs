@@ -15,5 +15,3 @@ studentContext.Students!.Add(student);
 await studentContext.SaveChangesAsync();
 
 var s = studentContext.Students!.OrderBy(s => s.Id).ToList();
-
-{ }
