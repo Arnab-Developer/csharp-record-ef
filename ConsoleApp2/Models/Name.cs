@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp2.Models
 {
-    public record Name
+    internal record Name
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

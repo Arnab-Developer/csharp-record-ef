@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConsoleApp2.Data
 {
-    public class StudentContext : DbContext
+    internal class StudentContext : DbContext
     {
         public DbSet<Student>? Students { get; set; }
 

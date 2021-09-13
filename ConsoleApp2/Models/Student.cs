@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp2.Models
 {
-    public record Student
+    internal record Student
     {
         public int Id { get; set; }
         public Name Name { get; set; }
