@@ -7,7 +7,7 @@
 
 #pragma warning disable CS8618
         public Student()
-        {            
+        {
         }
 #pragma warning restore CS8618
 
