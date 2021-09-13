@@ -1,4 +1,3 @@
-# C# record
+# C# record with EF
 
-I tried to write a class with all the functionalities of 
-[record](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/tutorials/records).
+It is possible to use `record` to work with Entity Framework.
